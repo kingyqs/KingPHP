@@ -1,3 +1,2 @@
-Git is a distributed version control system.
-Git is free software read.
-hello world!
+Hello！
+KingPHP is the php framework!
